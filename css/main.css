@@ -1,71 +1,71 @@
 
 /* ###STEP8 Add scroll smooth - 2nd commit issue-4*/
-/*html {*/
-/*scroll-behavior: smooth;*/
-/*}*/
+html {
+scroll-behavior: smooth;
+}
 
 
 /* ###STEP4 SEB */
-/*body {*/
-/*    */
-/*    background-color: aquamarine;*/
-/*    */
-/*    !*!* ### STEP7 Update background-color - 1st commit issue-4*!*!*/
-/*    !*background-color: #ddd;*!*/
-/*    */
-/*}*/
+body {
+    
+    /*background-color: aquamarine;*/
+
+    /*/* ### STEP7 Update background-color - 1st commit issue-4*/
+    background-color: #ddd;
+
+}
 
 /* ###STEP9 Add background-color on header - 3rd commit issue-4*/
-/*header {*/
-/*    background-color: #36a7df;*/
-/*}*/
+header {
+    background-color: #36a7df;
+}
 
 
 /* ###STEP2 */
 /* !*Responsive menu - 2nd commit issue-1*!*/
-/*.menu .menu-liens {*/
-/*    display: grid;*/
-/*    grid-template-columns: repeat(auto-fill,minmax(19rem,1fr));*/
-/*}*/
+.menu .menu-liens {
+    display: grid;
+    grid-template-columns: repeat(auto-fill,minmax(19rem,1fr));
+}
 
 
 /* ###STEP2 */
-/*.menu .menu-liens > li {*/
-/*    text-align: center;*/
+.menu .menu-liens > li {
+    text-align: center;
 
-/*    !*!* ###STEP10 Increase font-size menu - 3rd commit issue-4*!*!*/
-/*    !*font-size: 1.3rem;*!*/
-/*}*/
+    /*/* ###STEP10 Increase font-size menu - 3rd commit issue-4*/
+    font-size: 1.3rem;
+}
 
 
 /* ###STEP10 Add style link menu - 3rd commit issue-4*/
-/*.menu .menu-liens > li > a {*/
-/*    color: white;*/
-/*    text-decoration: none;*/
-/*}*/
+.menu .menu-liens > li > a {
+    color: white;
+    text-decoration: none;
+}
 
 
 /* ###STEP11 Add style on h1 title and main content - 4th commit issue-4*/
-/*h1 {*/
-/*    text-align: center;*/
-/*}*/
+h1 {
+    text-align: center;
+}
 
-/*main {*/
-/*    background-color: white;*/
-/*    margin : 0 1rem;*/
-/*}*/
+main {
+    background-color: white;
+    margin : 0 1rem;
+}
 
 
 /* ###STEP5 SEB Center content in article - 2nd commit issue-1 after rebase on develop*/
-/*article {*/
-/*    display: flex;*/
-/*    flex-direction: column;*/
-/*    align-items: center;*/
-/*    padding : 1rem;*/
+article {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding : 1rem;
 
 
-/*    !*!* ###STEP6 SEB Increase font-size - 3rd commit issue-1*!*!*/
-/*    !*font-size: 1.1rem;*!*/
-/*}*/
+    /*/* ###STEP6 SEB Increase font-size - 3rd commit issue-1*/
+    font-size: 1.1rem;
+}
 
 
