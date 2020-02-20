@@ -6,14 +6,14 @@
 
 
 /* ###STEP4 SEB */
-/*body {*/
-/*    */
-/*    background-color: aquamarine;*/
-/*    */
-/*    !*!* ### STEP7 Update background-color - 1st commit issue-4*!*!*/
-/*    !*background-color: #ddd;*!*/
-/*    */
-/*}*/
+body {
+    
+    background-color: aquamarine;
+
+    /*/* ### STEP7 Update background-color - 1st commit issue-4*/*/
+    /*background-color: #ddd;*/
+
+}
 
 /* ###STEP9 Add background-color on header - 3rd commit issue-4*/
 /*header {*/
