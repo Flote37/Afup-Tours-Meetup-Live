@@ -23,19 +23,19 @@
 
 /* ###STEP2 */
 /* !*Responsive menu - 2nd commit issue-1*!*/
-/*.menu .menu-liens {*/
-/*    display: grid;*/
-/*    grid-template-columns: repeat(auto-fill,minmax(19rem,1fr));*/
-/*}*/
+.menu .menu-liens {
+    display: grid;
+    grid-template-columns: repeat(auto-fill,minmax(19rem,1fr));
+}
 
 
 /* ###STEP2 */
-/*.menu .menu-liens > li {*/
-/*    text-align: center;*/
+.menu .menu-liens > li {
+    text-align: center;
 
-/*    !*!* ###STEP10 Increase font-size menu - 3rd commit issue-4*!*!*/
-/*    !*font-size: 1.3rem;*!*/
-/*}*/
+    /*/* ###STEP10 Increase font-size menu - 3rd commit issue-4*/*/
+    /*font-size: 1.3rem;*/
+}
 
 
 /* ###STEP10 Add style link menu - 3rd commit issue-4*/
