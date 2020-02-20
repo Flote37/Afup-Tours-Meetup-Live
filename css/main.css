@@ -57,15 +57,15 @@ body {
 
 
 /* ###STEP5 SEB Center content in article - 2nd commit issue-1 after rebase on develop*/
-/*article {*/
-/*    display: flex;*/
-/*    flex-direction: column;*/
-/*    align-items: center;*/
-/*    padding : 1rem;*/
+article {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding : 1rem;
 
 
-/*    !*!* ###STEP6 SEB Increase font-size - 3rd commit issue-1*!*!*/
-/*    !*font-size: 1.1rem;*!*/
-/*}*/
+    /*/* ###STEP6 SEB Increase font-size - 3rd commit issue-1*/
+    font-size: 1.1rem;
+}
 
 
