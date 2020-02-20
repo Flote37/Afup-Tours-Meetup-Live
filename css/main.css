@@ -6,14 +6,14 @@
 
 
 /* ###STEP4 SEB */
-/*body {*/
-/*    */
-/*    background-color: aquamarine;*/
-/*    */
-/*    !*!* ### STEP7 Update background-color - 1st commit issue-4*!*!*/
-/*    !*background-color: #ddd;*!*/
-/*    */
-/*}*/
+body {
+    
+    background-color: aquamarine;
+
+    /*/* ### STEP7 Update background-color - 1st commit issue-4*/*/
+    /*background-color: #ddd;*/
+
+}
 
 /* ###STEP9 Add background-color on header - 3rd commit issue-4*/
 /*header {*/
@@ -57,15 +57,15 @@
 
 
 /* ###STEP5 SEB Center content in article - 2nd commit issue-1 after rebase on develop*/
-/*article {*/
-/*    display: flex;*/
-/*    flex-direction: column;*/
-/*    align-items: center;*/
-/*    padding : 1rem;*/
+article {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding : 1rem;
 
 
-/*    !*!* ###STEP6 SEB Increase font-size - 3rd commit issue-1*!*!*/
-/*    !*font-size: 1.1rem;*!*/
-/*}*/
+    /*/* ###STEP6 SEB Increase font-size - 3rd commit issue-1*/
+    font-size: 1.1rem;
+}
 
 
